@@ -11,19 +11,21 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 **Lectures**:
 
-| Day  | Time   | Location |
-|----------|--------|------|
-| Tue/Thu  | 12:30-14:00  | On [Zoom](https://canvas.ubc.ca/courses/83420/external_tools/15408) until Jan 24, then DMP 310 |
+| Section  | Day  | Time   | Location |
+|----------|----------|--------|------|
+| 201 | Tue/Thu  |  2:00 - 3:30 | Geography 100 |
+| 202 | Tue/Thu  |  3:30 - 5:00 | P. A. Woodward Instructional Resources Centre 3 |
+| 203 | Tue/Thu  |  5:00 - 6:30 | Hugh Dempster Pavilion 310 |
 
 **Tutorials**:
-The tutorials for this class will be run by the TAs and will be in the office hour format. Tutorials will also be on Zoom untin Jan 24, then they will transfer to their classroom. 
+The tutorials for this class will be run by the TAs and will be in the office hour format. 
 
 | Day  | Time   | Location |
 |----------|--------|------|
-| Friday  | 9:00-10:00 | On [Zoom](https://canvas.ubc.ca/courses/83420/external_tools/15408) until Jan 24, then Neville Scarfe #1328 |
-| Friday  | 10:00-11:00 | On [Zoom](https://canvas.ubc.ca/courses/83420/external_tools/15408) until Jan 24, then Neville Scarfe #1328 |
-| Friday  | 12:00-13:00  | On [Zoom](https://canvas.ubc.ca/courses/83420/external_tools/15408) until Jan 24, then Neville Scarfe #1328 |
-| Friday  | 16:00-17:00 | On [Zoom](https://canvas.ubc.ca/courses/83420/external_tools/15408) until Jan 24, then Neville Scarfe #1328 |
+| Friday  | 9:00-10:00 | Neville Scarfe #1328 |
+| Friday  | 10:00-11:00 | Neville Scarfe #1328 |
+| Friday  | 12:00-13:00  | Neville Scarfe #1328 |
+| Friday  | 16:00-17:00 | Neville Scarfe #1328 |
 
 
 **Office hours**: 
