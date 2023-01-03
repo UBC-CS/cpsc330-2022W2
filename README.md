@@ -4,12 +4,12 @@
 
 This is the course homepage for CPSC 330: Applied Machine Learning at the University of British Columbia. You are looking at the current version (Jan-Apr 2023). Earlier versions can be found at these links:
 * [from Sep-Dec 2020 taught by Mike Gelbart](https://github.com/UBC-CS/cpsc330/tree/v2.0)
-* [from Sep-Dec 2021 taught by Verada Kolhatkar](https://github.com/UBC-CS/cpsc330)
-* [Jan-April 2022 taught by Giulia Toti](https://github.com/UBC-CS/cpsc330-2021W2)
-* [May-June 2022 taught by Mehrdad Oveisi](https://github.com/UBC-CS/cpsc330-2022s)
+* [from Jan-April 2022 taught by Giulia Toti](https://github.com/UBC-CS/cpsc330-2021W2)
+* [from May-June 2022 taught by Mehrdad Oveisi](https://github.com/UBC-CS/cpsc330-2022s)
+* [from Sep-Dec 2022 taught by Verada Kolhatkar](https://github.com/UBC-CS/cpsc330)
 
 
-Instructor: Giulia Toti
+Instructors: Giulia Toti (201), Mathias Lecuyer (202), Amir Abdi (203)
 
 ## Important links
 
