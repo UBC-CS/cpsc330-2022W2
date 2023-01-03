@@ -27,17 +27,17 @@ Usually the homework assignments will be due on Mondays and will be released on 
 
 |Assessment  | Due date |  Where to find? | Where to submit? | 
 |-------|-----------|-----------|-----------|
-| Syllabus quiz | Jan 17, 11:59pm  | [Canvas](https://canvas.ubc.ca/courses/83420/quizzes/453912) | [Canvas](https://canvas.ubc.ca/courses/83420/quizzes/453912) | 
-| hw1 | Jan 17, 11:59pm |  [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw2 | Jan 24, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)| 
-| hw3 | Feb 2, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw4 | Feb 11, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw5 | Feb 28, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| **Midterm** | Feb 17, during class time| TBD | TBD | 
-| hw6 | Mar 14, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw7 | Mar 23, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| Syllabus quiz | Jan 16, 11:59pm  | [Canvas](https://canvas.ubc.ca/courses/106375/quizzes/584868) | [Canvas](https://canvas.ubc.ca/courses/106375/quizzes/584868) | 
+| hw1 | Jan 16, 11:59pm |  [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw2 | Jan 23, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)| 
+| hw3 | Feb 1, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw4 | Feb 10, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)| 
+| **Midterm** | Feb 15 **Wednesday** | TBD | TBD | 
+| hw5 | Feb 27, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw6 | Mar 13, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw7 | Mar 20, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
 | hw8 | TBD, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2021W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| **Final exam** | Apr 27, 15:30 pm | [ESB 1013](https://learningspaces.ubc.ca/classrooms/esb-1013) | Canvas |
+| **Final exam** | TBD | TBD | TBD |
 
 
 
