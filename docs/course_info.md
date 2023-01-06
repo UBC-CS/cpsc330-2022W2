@@ -56,6 +56,11 @@ The tutorials for this class will be run by the TAs and will be in the office ho
 
 The teaching team can (must) be contacted through Piazza. All info about how to contact us can be found [here](https://github.com/UBC-CS/cpsc330-2022W2/blob/main/docs/asking_for_help.md)
 
+**Course Coordinator**:
+- Michelle Pang
+
+The Course Coordinator can be contacted through email at cpsc330-admin@cs.ubc.ca. 
+
 ## Registration
 
 **Waitlists**:
