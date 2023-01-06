@@ -29,12 +29,16 @@ The tutorials for this class will be run by the TAs and will be in the office ho
 
 
 **Office hours**: 
-- [Giulia Toti](https://canvas.ubc.ca/courses/83420/external_tools/15408), Wednesday 14:00-15:30
-- [Gaurav Bhatt](https://canvas.ubc.ca/courses/83420/external_tools/15408), Monday 12:30-14:30
+- Giulia Toti, Monday 10:00-11:30, ICICS 231
+- Mathias Lecuyer, Wednesday 9:30-11:00, ICICS 317
+
 
 ## Teaching Team
 
-**Instructor**: [Giulia Toti](https://www.gtoti.com/)
+**Instructors**: 
+- Section 201: [Giulia Toti](https://www.gtoti.com/)
+- Section 202: Mathias Lecuyer
+- Section 203: Amir Abdi
 
 **Teaching Assistants**:
 - Amrutha Varshini Ramesh
@@ -80,13 +84,13 @@ UBC has a [policy on academic concession](https://senate.ubc.ca/sites/senate.ubc
 
 ## Midterm
 
-The midterm exam will take place on **February 17, 2021** during class time. The exam will be on Canvas and you will have 75 minutes to complete it.
+The midterm exam will take place on **February 15, 2022** at 7PM. Note that this is **outside of regular class time**. More details about the midterm will follow as we get closer to the date.
 
 **Missed midterm exam**. There is no makeup midterm exam. If you miss the midterm exam, or anticipate missing the midterm exam, please see the Academic concessions section above. In most cases, if you have missed the midterm exam for a justified reason, the weight of the midterm component of the course will be transferred to the final exam.
 
 ## Final exam
 
-The final exam will be held during the exam period (TBD).  
+The final exam will be held during the exam period (TBD). **Do not book flights/trips before you are sure they do not conflict with the date of the final**.
 
 ## Code of conduct
 
@@ -95,24 +99,9 @@ The final exam will be held during the exam period (TBD).
 - Do not photograph or record lectures (audio or video) without permission.
 - If you have a problem or complaint, let the instructor(s) know immediately. Maybe we can fix it!
 
-## Working during the COVID-19 global pandemic
+## Regarding the COVID-19 global pandemic
 
-We are working together on this course during a global pandemic. Everyone is struggling to some extent. If you tell me you are having trouble, I am not going to judge you or think less of you. I hope you will extend me the same grace!
-
-Here are some ground rules:
-
-- If you are unable to submit a deliverable on time, please reach out **before** the deliverable is due.
-- If you need extra support, the teaching team is here to work with you. Our goal is to help each of you succeed in the course.
-- If you are struggling with the material, the new hybrid teaching format, or anything else, please reach out. I will try to find time and listen to you empathetically.
-- If I am unable to help you, I might know someone who can. UBC has some [great student support resources](https://students.ubc.ca/support).
-
-### Covid Safety at UBC
-
-**Masks:** This class is going to be (mostly) in person. Masks are required indoors, including in classrooms, as per the [BC Public Health Officer orders](https://www2.gov.bc.ca/gov/content/covid-19/info/restrictions#masks). For the purposes of this order, the term "masks" refers to medical and non-medical masks that cover our noses and mouths.  Masks are a primary tool to make it harder for Covid-19 to find a new host.  You will need to wear a medical or non-medical mask anytime you are indoors at UBC, for your own protection, and the safety and comfort of everyone else in the class. Please do not eat in the classroom. If you need to drink water/coffee/tea/etc, please keep your mask on between sips. Please note that there are some people who cannot wear a mask. These individuals are equally welcomed in our class. 
-
-**Seating in class:** To reduce the risk of Covid transmission, please sit in a consistent area of the classroom each day.  This will minimize your contacts and will still allow for the pedagogical methods planned for this class to help your learning. 
-
-**Questions after class:** We realize that many of you may have questions immediately after class and that this is a convenient time to ask them. However, for our in-person sections this term, we ask that you do not approach the instructor after class. Please vacate the room as soon as possible, to allow the next group of students to enter. If you have questions about lecture content or operational aspects of the course, please post them to Piazza or ask during office hours.
+**Masks:** This class is going to be in person. Masks are no longer required indoors at UBC, but they are welcomed and encouraged. 
 
 **Vaccination:** If you have not yet had a chance to get vaccinated against Covid-19, vaccines are available to you, free, and on campus [http://www.vch.ca/covid-19/covid-19-vaccine]. The higher the rate of vaccination in our community overall, the lower the chance of spreading this virus.  You are an important part of the UBC community. Please arrange to get vaccinated if you have not already done so. 
 
@@ -123,24 +112,15 @@ If you're sick, it's important that you stay home – no matter what you think
 
 Stay home if you have Covid symptoms, have recently tested positive for Covid, or are required to quarantine. You can check [this website](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation#Who) to find out if you should self-isolate or self-monitor. 
 
-Your precautions will help reduce risk and keep everyone safer. In this class, the marking scheme is intended to provide flexibility so that you can prioritize your health and still be able to succeed: 
-- Attendance in classes and tutorials is not graded (although obviously beneficial when it is safe to attend).
-- All course notes will be provided online. 
-- All homework assignments can be done and handed in online.   
-- Video recordings of class activities will be made available to you when possible/appropriate. 
-- Before each class, I'll also try to post some [videos on YouTube](https://www.youtube.com/watch?v=-1hTcS5ZE4w&list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM) to facilitate hybrid learning. 
-- There will be at least a few office hours which will be held online. 
-
 **If sick on an exam day:**
-If you are sick on a midterm exam day, please contact the instructor through Piazza as soon as you are confident you should not come to the scheduled exam.  We would strongly prefer that you contact us to make an alternate arrangement than for you to come to the exam while you are ill.  If you do show up for an exam and you are clearly ill, you will not be able to write the exam and we will make alternate arrangements with you.  It is much better for you to email ahead of time and not attend.  Remember to include your full name and student number in your message. 
+If you are sick on a midterm exam day, please contact the course coordinator as soon as you are confident you should not come to the scheduled exam.  We would strongly prefer that you contact us to make an alternate arrangement than for you to come to the exam while you are ill.  If you do show up for an exam and you are clearly ill, you will not be able to write the exam and we will make alternate arrangements with you.  It is much better for you to email ahead of time and not attend.  Remember to include your full name and student number in your message. 
 
 If you are sick on a final exam day, **do not attend the exam**. You must apply for deferred standing (an academic concession) through Science Advising no later than 48 hours after the missed final exam/assignment. Students who are granted deferred standing write the final exam/assignment at a later date. Learn more and find the application online: https://science.ubc.ca/students/advising/concession     
 
 For additional information about academic concessions, see the UBC policy here:http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,329,0,0  
 
-## Official statement from UBC regarding the online learning experience:
+To keep up with UBC updates regarding the Covid-19 pandemic, visit https://covid19.ubc.ca/
 
->*During this pandemic, the shift to online learning has greatly altered teaching and studying at UBC, including changes to health and safety considerations. Keep in mind that some UBC courses might cover topics that are censored or considered illegal by non-Canadian governments. This may include, but is not limited to, human rights, representative government, defamation, obscenity, gender or sexuality, and historical or current geopolitical controversies. If you are a student living abroad, you will be subject to the laws of your local jurisdiction, and your local authorities might limit your access to course material or take punitive action against you. UBC is strongly committed to academic freedom, but has no control over foreign authorities (please visit http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,33,86,0 for an articulation of the values of the University conveyed in the Senate Statement on Academic Freedom). Thus, we recognize that students will have legitimate reason to exercise caution in studying certain subjects. If you have concerns regarding your personal situation, consider postponing taking a course with manifest risks, until you are back on campus or reach out to your academic advisor to find substitute courses. For further information and support, please visit: http://academic.ubc.ca/support-resources/freedom-expression.*
 
 ## Land Acknowledgement 
 
