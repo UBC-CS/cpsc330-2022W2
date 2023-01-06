@@ -28,15 +28,15 @@ Usually the homework assignments will be due on Mondays and will be released on 
 |Assessment  | Due date |  Where to find? | Where to submit? | 
 |-------|-----------|-----------|-----------|
 | Syllabus quiz | Jan 16, 11:59pm  | [Canvas](https://canvas.ubc.ca/courses/106375/quizzes/584868) | [Canvas](https://canvas.ubc.ca/courses/106375/quizzes/584868) | 
-| hw1 | Jan 16, 11:59pm |  [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw2 | Jan 23, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)| 
-| hw3 | Feb 1, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw4 | Feb 10, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)| 
+| hw1 | Jan 16, 11:59pm |  [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9471)|  
+| hw2 | Jan 23, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9471)| 
+| hw3 | Feb 1, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9471)|  
+| hw4 | Feb 10, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9471)| 
 | **Midterm** | Feb 15 **Wednesday** | TBD | TBD | 
-| hw5 | Feb 27, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw6 | Mar 13, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw7 | Mar 20, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
-| hw8 | TBD, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/5991)|  
+| hw5 | Feb 27, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9471)|  
+| hw6 | Mar 13, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9471)|  
+| hw7 | Mar 20, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9471)|  
+| hw8 | TBD, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9471)|  
 | **Final exam** | TBD | TBD | TBD |
 
 
