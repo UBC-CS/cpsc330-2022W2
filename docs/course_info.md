@@ -20,12 +20,15 @@ Application of machine learning tools, with an emphasis on solving practical pro
 **Tutorials**:
 The tutorials for this class will be run by the TAs and will be in the office hour format. 
 
-| Day  | Time   | Location |
-|----------|--------|------|
-| Friday  | 9:00-10:00 | Neville Scarfe #1328 |
-| Friday  | 10:00-11:00 | Neville Scarfe #1328 |
-| Friday  | 12:00-13:00  | Neville Scarfe #1328 |
-| Friday  | 16:00-17:00 | Neville Scarfe #1328 |
+| Tutorial  | Day| Time   | TA | Location|
+|----------|-----|----------|------|------|
+|T2A|	F|	9:00-10:00am|	Mahsa| Macleod 3008
+|T2B|	F|	10:00-11:00am|	Ario| Orcahrd Commons 3018
+|T2C|	F|	12:00-1:00pm|	Eric| Hugh Dempster Pavilion 101
+|T2D|	F|	1:00-2:00pm|	Elizabeth| Hugh Dempster Pavilion 201
+|T2E|	F|	3:00-4:00pm|	Frederick| Hugh Dempster Pavilion 101
+|T2F|	F|	2:00-3:00pm|	Anne-Sophie|Hugh Dempster Pavilion 201
+|T2G|	F|	11:00 -12:00pm|	Serina|Macleod 3002
 
 
 **Office hours**: 
