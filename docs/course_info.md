@@ -41,10 +41,18 @@ The tutorials for this class will be run by the TAs and will be in the office ho
 - Section 203: Amir Abdi
 
 **Teaching Assistants**:
-- Amrutha Varshini Ramesh
-- Chenwei Zhang
+- Anne-Sophie Fratzscher
+- Ario Rostami
 - Elizabeth Reid
-- Gaurav Bhatt
+- Eric Wong
+- Frederick Shpilevskiy
+- Ken Johnson
+- Mahsa Zarei
+- Mihir Bhandari
+- Miranda Chan
+- Peyman Gholami
+- Sandra Radic
+- Serina Mak
 
 ## Registration
 
@@ -80,7 +88,7 @@ For the grading scheme I wish we could use, see [here](https://youtu.be/HdHlfiOA
 
 ## Academic concessions
 
-UBC has a [policy on academic concession](https://senate.ubc.ca/sites/senate.ubc.ca/files/downloads/20190515_V_135_Academic_Concession-Approved.pdf) for cases in which a student may be unable to complete coursework. According to this policy, grounds for academic concession can be illness, conflicting responsibilities, or compassionate grounds. Examples of compassionate grounds, from the above policy, include "a traumatic event experienced by the student, a family member, or a close friend; an act of sexual assault or other sexual misconduct experienced by the student, a family member, or a close friend; a death in the family or of a close friend." If you would like to request an academic concession, please fill out the [academic concession form](https://github.com/UBC-CS/cpsc330/blob/master/docs/ConcessionForm.pdf) and email it to the instructor as soon as possible. You may be asked for further documentation. The instructor will evaluate the situation and make a decision on whether to grant the concession and, if so, how to proceed.
+UBC has a [policy on academic concession](https://senate.ubc.ca/sites/senate.ubc.ca/files/downloads/20190515_V_135_Academic_Concession-Approved.pdf) for cases in which a student may be unable to complete coursework. According to this policy, grounds for academic concession can be illness, conflicting responsibilities, or compassionate grounds. Examples of compassionate grounds, from the above policy, include "a traumatic event experienced by the student, a family member, or a close friend; an act of sexual assault or other sexual misconduct experienced by the student, a family member, or a close friend; a death in the family or of a close friend." If you would like to request an academic concession, please fill out the [academic concession form](https://github.com/UBC-CS/cpsc330/blob/master/docs/ConcessionForm.pdf) and email it to the Michelle, your CPSC 330 course coordinator at cpsc330-admin@cs.ubc.ca as soon as possible. You may be asked for further documentation. The instructor will evaluate the situation and make a decision on whether to grant the concession and, if so, how to proceed.
 
 ## Midterm
 
