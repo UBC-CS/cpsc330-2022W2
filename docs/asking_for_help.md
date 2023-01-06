@@ -39,5 +39,5 @@ For general questions, use Piazza and post to **the entire class** so that other
   - If you want to be extra fancy, you can include a link to the specific line by appending a code like `#L123` to the end of the URL (this would link to line 123). You can also link to a range of lines, like `#L9-L17` to highlight lines 9-17. See, for example, [this link](https://github.com/mgelbart/rhomboid/blob/master/src/run_tests.py#L9-L17).
   
 ## Grading-related questions  
-- For questions about your grade, check Piazza to see if we posted a list of who graded which questions. If so, you can just send a message on piazza to the person from the teaching team who graded it. If you don't get a timely response (a couple days), then send it to all instructors, which you can do by typing **instructors** in the post to field. Clearly mention the name of the assignment, your name and student number, and explain your concern.   
+- For questions about your grade, please contact Michelle, CPSC 304 Course Coordinator at cpsc330-admin@cs.ubc.ca and she will review and connect you with the TA responsible for your grade. Clearly mention the name of the assignment, your name and student number, and explain your concern.   
 
