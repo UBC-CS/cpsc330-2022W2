@@ -1,6 +1,8 @@
 # How to ask for help
 
-We will use [Piazza](https://piazza.com/ubc.ca/) for general questions as well as your specific questions about grades.
+We will use [Piazza](https://piazza.com/class/lcgo6c2ncl06el) for general questions as well as your specific questions about grades. You can access the course's Piazza through the Canvas tab.
+
+We require all students to use a @ubc.ca email to access Piazza. Accounts with other email addresses will be removed.
 
 Aside from all the standard UBC policies and guidelines, here are some additional points about how you're expected to use these platforms.
 
