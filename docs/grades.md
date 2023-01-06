@@ -13,7 +13,7 @@ The grading scheme for the course is as follows:
 
 **A score of at least 50% in the Final Exam is required to pass the course.**
 
-Assignments will contribute equally towards the overall Assignments grade. This may change only in case the last assignment ends up particularly short or long due to timing, in which case the weight will be changed accordingly. Furthermore, I will drop your lowest homework grade. 
+For the weight of each homework assignment, see the GitHub homepage. Your lowest homework grade will be dropped.
 
 ## General guidelines
 - All grading concerns and challenges must be submitted to Michelle, your CPSC 330 course coordinator at cpsc330-admin@cs.ubc.ca for review. 
