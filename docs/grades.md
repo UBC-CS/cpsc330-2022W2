@@ -16,8 +16,7 @@ The grading scheme for the course is as follows:
 Assignments will contribute equally towards the overall Assignments grade. This may change only in case the last assignment ends up particularly short or long due to timing, in which case the weight will be changed accordingly. Furthermore, I will drop your lowest homework grade. 
 
 ## General guidelines
-- All grading concerns and challenges must be reported on [Piazza](https://piazza.com/class/ky0j51i4ud64t5) by posting it to the instructors. 
-- You must select the `grading_concerns` folder when you post your message. If you do not do it, we might not see your message. 
+- All grading concerns and challenges must be submitted to Michelle, your CPSC 330 course coordinator at cpsc330-admin@cs.ubc.ca for review. 
 - Clearly state your name, student number, the assessment, and your concern.
 
 ## Grading concerns: time limit
