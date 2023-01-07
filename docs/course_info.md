@@ -41,7 +41,7 @@ The tutorials for this class will be run by the TAs and will be in the office ho
 **Instructors**: 
 - Section 201: [Giulia Toti](https://www.gtoti.com/)
 - Section 202: Mathias Lecuyer
-- Section 203: Amir Abdi
+- Section 203: [Amir Abdi](https://www.linkedin.com/in/amir-abdi/)
 
 **Teaching Assistants**:
 - Anne-Sophie Fratzscher
@@ -56,6 +56,9 @@ The tutorials for this class will be run by the TAs and will be in the office ho
 - Peyman Gholami
 - Sandra Radic
 - Serina Mak
+- Daniel Ajisafe
+- Jonathan Hu
+- Madonna Huang
 
 The teaching team can (must) be contacted through Piazza. All info about how to contact us can be found [here](https://github.com/UBC-CS/cpsc330-2022W2/blob/main/docs/asking_for_help.md)
 
@@ -121,23 +124,21 @@ The final exam will be held during the exam period (TBD). **Do not book flights/
 
 **Masks:** This class is going to be in person. Masks are no longer required indoors at UBC, but they are welcomed and encouraged. 
 
-**Vaccination:** If you have not yet had a chance to get vaccinated against Covid-19, vaccines are available to you, free, and on campus [http://www.vch.ca/covid-19/covid-19-vaccine]. The higher the rate of vaccination in our community overall, the lower the chance of spreading this virus.  You are an important part of the UBC community. Please arrange to get vaccinated if you have not already done so. 
-
-**COVID-19 testing:** UBC will require COVID-19 testing for all students, faculty and staff, with exemptions provided for those who are vaccinated against COVID-19: [https://news.ubc.ca/2021/08/26/ubc-implements-vaccine-declaration-and-rapid-testing-for-covid-19/]
+**Vaccination:** If you have not yet had a chance to get vaccinated against COVID-19, vaccines are available to you, free, and on campus [http://www.vch.ca/covid-19/covid-19-vaccine]. The higher the rate of vaccination in our community overall, the lower the chance of spreading this virus.  You are an important part of the UBC community. Please arrange to get vaccinated if you have not already done so.
 
 **Your personal health:**
-If you're sick, it's important that you stay home – no matter what you think you may be sick with (e.g., cold, flu, other). A daily self-health assessment is required before attending campus. Every day, before leaving home, complete the self-assessment for Covid symptoms using [this tool](https://bc.thrive.health/covid19/en ).
+If you're sick, it's important that you stay home – no matter what you think you may be sick with (e.g., cold, flu, other). A daily self-health assessment is required before attending campus. Every day, before leaving home, complete the self-assessment for COVID symptoms using [this tool](https://bc.thrive.health/covid19/en ).
 
-Stay home if you have Covid symptoms, have recently tested positive for Covid, or are required to quarantine. You can check [this website](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation#Who) to find out if you should self-isolate or self-monitor. 
+Stay home if you have COVID symptoms, have recently tested positive for COVID, or are required to quarantine. You can check [this website](http://www.bccdc.ca/health-info/diseases-conditions/covid-19/self-isolation#Who) to find out if you should self-isolate or self-monitor. 
 
 **If sick on an exam day:**
-If you are sick on a midterm exam day, please contact the course coordinator as soon as you are confident you should not come to the scheduled exam.  We would strongly prefer that you contact us to make an alternate arrangement than for you to come to the exam while you are ill.  If you do show up for an exam and you are clearly ill, you will not be able to write the exam and we will make alternate arrangements with you.  It is much better for you to email ahead of time and not attend.  Remember to include your full name and student number in your message. 
+If you are feeling unwell and are unable to attend your exam, please contact the course coordinator (cpsc330-admin@cs.ubc.ca) ahead of time with **your full name and student number**. We will work with you to make alternate arrangements for you to complete the exam. It is important to take care of your health and well-being, so if you are feeling ill, it is best not to attend the exam in person.
 
 If you are sick on a final exam day, **do not attend the exam**. You must apply for deferred standing (an academic concession) through Science Advising no later than 48 hours after the missed final exam/assignment. Students who are granted deferred standing write the final exam/assignment at a later date. Learn more and find the application online: https://science.ubc.ca/students/advising/concession     
 
 For additional information about academic concessions, see the UBC policy here:http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,329,0,0  
 
-To keep up with UBC updates regarding the Covid-19 pandemic, visit https://covid19.ubc.ca/
+To keep up with UBC updates regarding the COVID-19 pandemic, visit https://covid19.ubc.ca/
 
 
 ## Land Acknowledgement 
