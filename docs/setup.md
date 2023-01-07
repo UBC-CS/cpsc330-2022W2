@@ -16,7 +16,8 @@ When there are updates in the repository, you can update the local copy using th
 git pull
 ```
 
-If you prefer a GUI, you can try [GitHub Desktop](https://desktop.github.com/).
+- If you prefer a GUI, you can try [GitHub Desktop](https://desktop.github.com/). 
+- Learn about git commands [here](https://git-scm.com/docs/user-manual) or go through this [step-by-step tutorial](https://opensource.com/article/18/1/step-step-guide-git).
 
 ## Python and Conda
 
@@ -31,7 +32,7 @@ To make sure that miniconda and Python are correctly installed, follow the instr
 After installation, go to spotlight search on your macbook and type "terminal" and go to this program. If you already have terminal open,  restart it. If the installation was successful, you will see (base) prepending to your prompt string. For example, here is how the terminal prompt looks like on my macbook. 
 
 ```
-(base) kvarada@CPSC-W-KVARADA01:~$
+(base) username@MACHINE-NAME:~$
 ```
 
 To confirm that conda is working, you can ask it which version was installed:
@@ -122,7 +123,7 @@ For other packages we need for the course, we will be creating a `conda` virtual
     ```    
 6. We are all set! When you want to run the lecture materials or work on your homework, start Jupyter Lab from your base environment, as shown below.
 
-```(base) kvarada@CPSC-W-KVARADA01:~$ jupyter lab```
+```(base) username@MACHINE-NAME:~$ jupyter lab```
 
 Jupyter Lab will be opened in your default browser. Navigate to the appropriate notebook in Jupyter Lab. When you open the notebook, you should see our newly created `conda` environment `cpsc330` there. See the screenshots below. Select `cpsc330` as the preferred kernel. 
 
@@ -143,7 +144,7 @@ If the `conda env create -f cpsc330env.yml` command above results in an error on
 - Get rid of the line with that package from your local copy of `cpsc330env.yml`. 
 - Try creating the environment again with the modified `cpsc330env.yml`. 
 - Once the environment is created, activate the environment and install the missing packages manually in the environment. You may have to install these packages using `pip install` in some cases, as the most recent version of the package might not available via `conda` for your operating system yet. 
-- If you still have trouble with the environment and running lecture notebooks on your machine, make use of office hours and tutorials. 
+- If you still have trouble with the environment and running lecture notebooks on your machine, make use of office hours and tutorial sessions. 
 
 ## Credit
 
