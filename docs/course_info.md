@@ -86,10 +86,10 @@ The grading scheme for the course is as follows:
 
 | Component   | Weight          | Location   |
 |-------------|-----------------|------------|
-| Syllabus quiz |   1%          | [Canvas](https://canvas.ubc.ca/courses/78046) | 
-| Assignments |     30%         | [Gradescope](https://www.gradescope.ca/courses/5032) |
-| Midterm     |     19%         | [Canvas](https://canvas.ubc.ca/courses/78046)     |
-| Final       |     50%         | [Canvas](https://canvas.ubc.ca/courses/78046)     |
+| Syllabus quiz |   1%          | [Canvas](https://canvas.ubc.ca/courses/106375/quizzes/584868) | 
+| Assignments |     30%         | [Gradescope](https://www.gradescope.ca/courses/9483) |
+| Midterm     |     19%         | TBD |
+| Final       |     50%         | TBD   |
 
 **A score of at least 50% in the Final Exam is required to pass the course.**
 
