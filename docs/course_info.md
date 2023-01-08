@@ -54,11 +54,7 @@ The tutorials for this class will be run by the TAs and will be in the office ho
 - Mihir Bhandari
 - Miranda Chan
 - Peyman Gholami
-- Sandra Radic
 - Serina Mak
-- Daniel Ajisafe
-- Jonathan Hu
-- Madonna Huang
 
 The teaching team can (must) be contacted through Piazza. All info about how to contact us can be found [here](https://github.com/UBC-CS/cpsc330-2022W2/blob/main/docs/asking_for_help.md)
 
