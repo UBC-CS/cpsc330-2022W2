@@ -23,7 +23,7 @@ The tutorials for this class will be run by the TAs and will be in the office ho
 | Tutorial  | Day| Time   | TA | Location|
 |----------|-----|----------|------|------|
 |T2A|	F|	9:00-10:00am|	Mahsa| Macleod 3008
-|T2B|	F|	10:00-11:00am|	Ario| Orcahrd Commons 3018
+|T2B|	F|	10:00-11:00am|	Ario| Orchard Commons 3018
 |T2C|	F|	12:00-1:00pm|	Eric| Hugh Dempster Pavilion 101
 |T2D|	F|	1:00-2:00pm|	Elizabeth| Hugh Dempster Pavilion 201
 |T2E|	F|	3:00-4:00pm|	Frederick| Hugh Dempster Pavilion 101
