@@ -10,7 +10,7 @@ from imageio import imread
 from sklearn.model_selection import cross_validate
 from sklearn.tree import export_graphviz
 from torchvision import transforms
-from torchvision.models import vgg16
+from torchvision.models import vgg16, VGG16_Weights
 
 plt.rcParams["font.size"] = 16
 
@@ -45,6 +45,37 @@ def classify_image(img, topn=4):
     df = pd.DataFrame(d, columns=["Class", "Probability score"])
     return df
 
+def classify_image_recent(img, topn=4):
+
+    clf = vgg16(
+        weights=VGG16_Weights.IMAGENET1K_V1
+    )
+    preprocess = transforms.Compose(
+        [
+            transforms.Resize(299),
+            transforms.CenterCrop(299),
+            transforms.ToTensor(),
+            transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
+        ]
+    )
+
+    with open("data/imagenet_classes.txt") as f:
+        classes = [line.strip() for line in f.readlines()]
+
+    img_t = preprocess(img)
+    batch_t = torch.unsqueeze(img_t, 0)
+    clf.eval()
+    output = clf(batch_t)
+    _, indices = torch.sort(output, descending=True)
+    probabilities = torch.nn.functional.softmax(output, dim=1)
+    d = {
+        "Class": [classes[idx] for idx in indices[0][:topn]],
+        "Probability score": [
+            np.round(probabilities[0, idx].item(), 3) for idx in indices[0][:topn]
+        ],
+    }
+    df = pd.DataFrame(d, columns=["Class", "Probability score"])
+    return df
 
 def display_tree(feature_names, tree, counts=False):
     """For binary classification only"""
