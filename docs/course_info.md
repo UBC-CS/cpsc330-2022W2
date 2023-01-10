@@ -40,7 +40,7 @@ The tutorials for this class will be run by the TAs and will be in the office ho
 
 **Instructors**: 
 - Section 201: [Giulia Toti](https://www.gtoti.com/)
-- Section 202: Mathias Lecuyer
+- Section 202: -Mathias Lecuyer](http://mathias.lecuyer.me/)
 - Section 203: [Amir Abdi](https://www.linkedin.com/in/amir-abdi/)
 
 **Teaching Assistants**:
