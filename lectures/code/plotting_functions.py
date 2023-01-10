@@ -10,7 +10,7 @@ from sklearn.pipeline import make_pipeline
 from sklearn.svm import SVC
 
 from utils import tree_image
-
+from mglearn_utils import *
 
 def plot_tree_decision_boundary(
     model, X, y, x_label="x-axis", y_label="y-axis", eps=None, ax=None, title=None
@@ -21,8 +21,9 @@ def plot_tree_decision_boundary(
     if title is None:
         title = "max_depth=%d" % (model.tree_.max_depth)
 
-    mglearn.plots.plot_2d_separator(model, X.to_numpy(), eps=eps, fill=True, alpha=0.5, ax=ax)
-    mglearn.discrete_scatter(X.iloc[:, 0], X.iloc[:, 1], y, ax=ax)
+    
+    plot_2d_separator(model, X.to_numpy(), eps=eps, fill=True, alpha=0.5, ax=ax)
+    discrete_scatter(X.iloc[:, 0], X.iloc[:, 1], y, ax=ax)
     ax.set_xlabel(x_label)
     ax.set_ylabel(y_label)
     ax.set_title(title)
