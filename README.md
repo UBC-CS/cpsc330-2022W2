@@ -6,7 +6,7 @@ This is the course homepage for CPSC 330: Applied Machine Learning at the Univer
 * [from Sep-Dec 2020 taught by Mike Gelbart](https://github.com/UBC-CS/cpsc330/tree/v2.0)
 * [from Jan-April 2022 taught by Giulia Toti](https://github.com/UBC-CS/cpsc330-2021W2)
 * [from May-June 2022 taught by Mehrdad Oveisi](https://github.com/UBC-CS/cpsc330-2022s)
-* [from Sep-Dec 2022 taught by Verada Kolhatkar](https://github.com/UBC-CS/cpsc330)
+* [from Sep-Dec 2022 taught by Varada Kolhatkar](https://github.com/UBC-CS/cpsc330)
 
 
 Instructors: Giulia Toti (201), Mathias Lecuyer (202), Amir Abdi (203)
