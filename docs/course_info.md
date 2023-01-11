@@ -28,7 +28,7 @@ The tutorials for this class will be run by the TAs and will be in the office ho
 |T2D|	F|	1:00-2:00pm|	Elizabeth| Hugh Dempster Pavilion 201
 |T2E|	F|	3:00-4:00pm|	Frederick| Hugh Dempster Pavilion 101
 |T2F|	F|	2:00-3:00pm|	Anne-Sophie|Hugh Dempster Pavilion 201
-|T2G|	F|	11:00 -12:00pm|	Serina|Macleod 3002
+|T2G|	F|	11:00 -12:00pm|	Serina|Orchard Commons 3074
 
 
 **Office hours**: 
