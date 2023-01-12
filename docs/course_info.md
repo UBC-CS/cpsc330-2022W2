@@ -102,7 +102,7 @@ UBC has a [policy on academic concession](https://senate.ubc.ca/sites/senate.ubc
 
 ## Midterm
 
-The midterm exam will take place on **February 15, 2022** at 7PM. Note that this is **outside of regular class time**. More details about the midterm will follow as we get closer to the date.
+The midterm exam will take place on **February 15, 2023** at 7PM. Note that this is **outside of regular class time**. More details about the midterm will follow as we get closer to the date.
 
 **Missed midterm exam**. There is no makeup midterm exam. If you miss the midterm exam, or anticipate missing the midterm exam, please see the Academic concessions section above. In most cases, if you have missed the midterm exam for a justified reason, the weight of the midterm component of the course will be transferred to the final exam.
 
