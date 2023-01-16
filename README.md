@@ -14,7 +14,7 @@ Instructors: Giulia Toti (201), Mathias Lecuyer (202), Amir Abdi (203)
 ## Important links
 
 * [Course GitHub page](https://github.com/UBC-CS/cpsc330-2022W2)
-* [Course Jupyter book](https://ubc-cs.github.io/cpsc330/README.html)
+* [Course Jupyter book](https://ubc-cs.github.io/cpsc330/README.html). **Important:** this is a static version of the lecture notebooks developed by a previous instructor of the course. It can be used as reference for the content, but not for anything related to the particular course instance (due dates, setup steps, etc.)
 * [Course videos YouTube channel](https://www.youtube.com/playlist?list=PLHofvQE1VlGtZoAULxcHb7lOsMved0CuM)
 * [Canvas link](https://canvas.ubc.ca/courses/106375)
 * [Syllabus / administrative info](docs/course_info.md)
