@@ -3,7 +3,7 @@
 You will be submitting your homework assignments on Gradescope. Check out [Gradescope Student Guide](https://lthub.ubc.ca/guides/gradescope-student-guide/). 
 
 ## Accessing homework assignments
-Every homework assignment will be made available on the [course GitHub page](https://github.com/UBC-CS/cpsc330-2021W2) under the `hw` folder. Once it's available, I'll make an announcement on [Piazza](https://piazza.com/class/ky0j51i4ud64t5). The assignment will generally consist of a jupyter notebook along with necessary code and data or links to download the data.    
+Every homework assignment will be made available on the [course GitHub page](https://github.com/UBC-CS/cpsc330-2022W2) under the `hw` folder. Once it's available, I'll make an announcement on [Piazza](https://piazza.com/class/lcgo6c2ncl06el). The assignment will generally consist of a jupyter notebook along with necessary code and data or links to download the data.    
 
 ## How to submit
 
@@ -44,7 +44,7 @@ In most assignments, you will be asked to produce plots/figures. When including 
 ## Late submissions
 By default late submissions will not be accepted. The rationale is that we will be posting the solutions shortly after the assignment deadline, and we cannot accept submissions after the solutions are posted. I do not like this, but I believe the overall policy is best for the class as a whole.
 
-_In exceptional circumstances_ a late submission may be accepted with an academic concession - see [here](https://github.com/UBC-CS/cpsc330/blob/master/docs/course_info.md#academic-concessions) for more info.
+_In exceptional circumstances_ a late submission may be accepted with an academic concession - see [here](https://github.com/UBC-CS/cpsc330-2022W2/blob/main/docs/course_info.md#academic-concessions) for more info.
 
 ## Updates to assignments
 
