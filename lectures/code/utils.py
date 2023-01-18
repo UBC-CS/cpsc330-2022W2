@@ -88,6 +88,7 @@ def display_tree(feature_names, tree, counts=False):
     )
     # adapted from https://stackoverflow.com/questions/44821349/python-graphviz-remove-legend-on-nodes-of-decisiontreeclassifier
     # dot = re.sub('(\\\\nsamples = [0-9]+)(\\\\nvalue = \[[0-9]+, [0-9]+\])(\\\\nclass = [A-Za-z0-9]+)', '', dot)
+
     if counts:
         dot = re.sub("(samples = [0-9]+)\\\\n", "", dot)
         dot = re.sub("value", "counts", dot)
