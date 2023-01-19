@@ -62,7 +62,7 @@ The teaching team can (must) be contacted through Piazza. All info about how to 
 **Course Coordinator**:
 - Michelle Pang
 
-The Course Coordinator can be contacted through email at cpsc330-admin@cs.ubc.ca. 
+The Course Coordinator can be contacted through email at cpsc330-admin@cs.ubc.ca. Please note that the Course Coordinator's work hours are 8:30 AM-4:30 PM Monday to Friday. They do not respond to emails outside of their work hours and their response time varies, especially during extra busy times (e.g., before the add/drop deadline). In general, you can expect a response in 3-5 business days.
 
 ## Registration
 
