@@ -34,7 +34,7 @@ The tutorials for this class will be run by the TAs and will be in the office ho
 **Office hours**: 
 - Giulia Toti, Monday 10:00-11:30, ICICS 231
 - Mathias Lecuyer, Wednesday 9:30-11:00, ICICS 317
-- Amir Abdi, Monday, 5-6 PM, Virtual on [in this Zoom room](https://ubc.zoom.us/j/61799013213?pwd=SjBIbVlBRDNwYktQbElJMm5ybFVKQT09)
+- Amir Abdi, Monday, 5-6 PM, Virtual on Zoom (Link is available [here](https://canvas.ubc.ca/courses/106375/users/191703))
 
 
 ## Teaching Team
