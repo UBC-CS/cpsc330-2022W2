@@ -15,7 +15,7 @@ Once you submit to Gradescope, you should go there and ensure your assignment is
 
 ### Datasets
 
-Unless otherwise noted, if you download a dataset for your assignment, please do **not** submit the datasets. (If the dataset in bundled with the assignment, then it's of course fine to leave it there.)
+Unless otherwise noted, if you download a dataset for your assignment, please do **not** submit the datasets. This also applies to the csv files included in the homework folder. The only exception is if the dataset is embedded in the Jupyter Notebook, then it's of course fine to leave it there. 
 
 ### Report format
 
