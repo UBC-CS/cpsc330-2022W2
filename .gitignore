@@ -2,5 +2,6 @@
 .idea
 lectures/data/imdb_master.csv
 lectures/data/kc_house_data.csv
+lectures/data/housing.csv
 *.pyc
 *.ipynb_checkpoints

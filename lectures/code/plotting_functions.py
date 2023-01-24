@@ -289,6 +289,7 @@ def plot_original_scaled(
     train_transformed,
     test_transformed,
     title_transformed="Properly transformed",
+    title_original="Original Data",
 ):
     fig, axes = plt.subplots(1, 2, figsize=(15, 4))
     axes[0].scatter(X_train[:, 0], X_train[:, 1], label="Training set", s=60)
@@ -302,7 +303,7 @@ def plot_original_scaled(
     )
     axes[0].legend(loc="upper right")
 
-    axes[0].set_title("Original Data")
+    axes[0].set_title(title_original)
 
     axes[1].scatter(train_transformed[:, 0], train_transformed[:, 1], label="Training set", s=60)
     axes[1].scatter(
