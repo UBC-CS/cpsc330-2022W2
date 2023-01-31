@@ -111,7 +111,7 @@ If there is a reason why you cannot write the in-person exam at the scheduled ti
 - If you have a class conflict
 - Religious Observance
 
-Or you may have other reasons, which we will review this case by case (note submitting a request doesn't guarantee an accommodation). We will communicate our decision shortly after the survey deadline.  To submit a request, please visit CPSC 330 MT Conflict Survey (https://ubc.ca1.qualtrics.com/jfe/form/SV_0JSpybaIUPz1ZHg).
+Or you may have other reasons, which we will review this case by case (note submitting a request doesn't guarantee an accommodation). We will communicate our decision shortly after the survey deadline.  To submit a request, please visit [CPSC 330 MT Conflict Survey](https://ubc.ca1.qualtrics.com/jfe/form/SV_0JSpybaIUPz1ZHg).
 
 **Missed midterm exam**. There is no makeup midterm exam. If you miss the midterm exam, or anticipate missing the midterm exam, please see the Academic concessions section above. In most cases, if you have missed the midterm exam for a justified reason, the weight of the midterm component of the course will be transferred to the final exam.
 
