@@ -105,7 +105,7 @@ UBC has a [policy on academic concession](https://senate.ubc.ca/sites/senate.ubc
 The midterm exam will take place on **February 15, 2023** at 7PM. Note that this is **outside of regular class time**. More details about the midterm will follow as we get closer to the date.
 
 
-If there is a reason why you cannot write the in-person exam at the scheduled time, you need to submit your request by Wednesday, Feb 8, 2023 at 11:00 am (PT). Any incomplete or late requests will not be reviewed. Here are some scenarios where you will need to submit a request:
+If there is a reason why you cannot write the in-person exam at the scheduled time, you need to submit your request by **Wednesday, Feb 8, 2023 at 11:00 am (PT)**. Any incomplete or late requests will not be reviewed. Here are some scenarios where you will need to submit a request:
 
 - If you have an examination conflict (defined as two or more exams scheduled at the same time)
 - If you have a class conflict
@@ -115,10 +115,6 @@ Or you may have other reasons, which we will review this case by case (note subm
 
 **Missed midterm exam**. There is no makeup midterm exam. If you miss the midterm exam, or anticipate missing the midterm exam, please see the Academic concessions section above. In most cases, if you have missed the midterm exam for a justified reason, the weight of the midterm component of the course will be transferred to the final exam.
 
-
-
-
-To submit a request, please visit CPSC 330 MT Conflict Survey.
 
 ## Final exam
 
