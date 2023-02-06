@@ -7,6 +7,8 @@ As per calendar, the midterm will be on Wednesday, February 15, from 7:00pm to 8
  
 The in-person exam will be closed-book and it will be administered through Canvas. Students will attend to the exam location based on the lecture section they are officially registered in. Please see locations below:
 
+| Section  | Prof  | Location   | Location info |
+|----------|----------|--------|------|
 | CPSC 330 sec 201 | taught by Giulia Toti  |  will write the exam in SCRF 100 | https://learningspaces.ubc.ca/classrooms/scrf-100 |
 | CPSC 330 sec 202 | taught by Mathias Lecuyer  |  will write the exam in ESB 1012 | https://learningspaces.ubc.ca/classrooms/esb-1012 |
 | CPSC 330 sec 203 | taught by Amir Abdi |  will write the exam in DMP 310 | https://learningspaces.ubc.ca/classrooms/dmp-310 |
