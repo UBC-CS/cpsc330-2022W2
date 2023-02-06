@@ -5,7 +5,9 @@
 ## Important information regarding the upcoming CPSC 330 Midterm
 As per calendar, the midterm will be on Wednesday, February 15, from 7:00pm to 8:15pm (exam is 75 minutes long). No remote options allowed. 
  
-The in-person exam will be closed-book and it will be administered through Canvas. Students will attend to the exam location based on the lecture section they are officially registered in. Please see locations below:
+The in-person exam will be closed-book and it will be administered through Canvas. Students will attend to the exam location based on the lecture section they are officially registered in. 
+
+**Please see locations below:**
 
 -CPSC 330 Section 201 students (taught by Giulia Toti) will write the exam in [SCRF 100](https://learningspaces.ubc.ca/classrooms/scrf-100)
 -CPSC 330 Section 202 students (taught by Mathias Lecuyer) will write the exam in [ESB 1012](https://learningspaces.ubc.ca/classrooms/esb-1012)
