@@ -9,9 +9,9 @@ The in-person exam will be closed-book and it will be administered through Canva
 
 **Please see locations below:**
 
--CPSC 330 Section 201 students (taught by Giulia Toti) will write the exam in [SCRF 100](https://learningspaces.ubc.ca/classrooms/scrf-100)
--CPSC 330 Section 202 students (taught by Mathias Lecuyer) will write the exam in [ESB 1012](https://learningspaces.ubc.ca/classrooms/esb-1012)
--CPSC 330 Section 203 students (taught by Amir Abdi) will write the exam in [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310)
+- CPSC 330 Section 201 students (taught by Giulia Toti) will write the exam in [SCRF 100](https://learningspaces.ubc.ca/classrooms/scrf-100)
+- CPSC 330 Section 202 students (taught by Mathias Lecuyer) will write the exam in [ESB 1012](https://learningspaces.ubc.ca/classrooms/esb-1012)
+- CPSC 330 Section 203 students (taught by Amir Abdi) will write the exam in [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310)
 
 You are required to bring your own computer or tablet to complete the exam (no smartphones or other devices allowed). If you do not think you will have one available on the day of the exam, please let your CPSC 330 Course Coordinator, Michelle know no later than this Friday, February 10 by sending an email to cpsc330-admin@cs.ubc.ca. If you come to the exam without a computer, or if your computer malfunctions during the exam, you will be offered a paper version of the test.
  
