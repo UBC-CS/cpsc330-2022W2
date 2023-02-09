@@ -4,5 +4,6 @@ lectures/data/imdb_master.csv
 lectures/data/kc_house_data.csv
 lectures/data/housing.csv
 lectures/data/creditcard.csv
+lectures/data/housing-kaggle
 *.pyc
 *.ipynb_checkpoints
