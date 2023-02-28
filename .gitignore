@@ -7,3 +7,8 @@ lectures/data/creditcard.csv
 lectures/data/housing-kaggle
 *.pyc
 *.ipynb_checkpoints
+*.csv
+*.pyc
+*.json
+*.pyc
+*.tsv
