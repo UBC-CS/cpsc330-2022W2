@@ -12,3 +12,4 @@ lectures/data/housing-kaggle
 *.json
 *.pyc
 *.tsv
+*.wav
