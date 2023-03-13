@@ -132,7 +132,7 @@ The midterm exam will take place on **February 15, 2023** at 7PM. Note that this
 
 ## Final exam
 
-The final exam will be held during the exam period (TBD). **Do not book flights/trips before you are sure they do not conflict with the date of the final**.
+The final exam will be held on Thursday, April 20th 2023 at 7 pm (Location: TBD). **Do not book flights/trips before you are sure they do not conflict with the date of the final**.
 
 ## Code of conduct
 
