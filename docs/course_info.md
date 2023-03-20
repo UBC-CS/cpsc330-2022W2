@@ -2,7 +2,7 @@
 
 [UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-330-201-2021w)
 
-## Important information regarding the CPSC 330 Final Exam (updated Mar 20 11:50am)
+## Important information regarding the CPSC 330 Final Exam
 As per [UBC Schedule](https://students.ubc.ca/enrolment/exams/exam-schedule), the final exam will be on Thursday, April 20th, from 7:00pm to 10pm  (exam length TBD). No remote options allowed. 
  
 Students will attend to the exam location based on the lecture section and last name:
