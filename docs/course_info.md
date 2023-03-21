@@ -2,26 +2,16 @@
 
 [UBC course URL](https://www.cs.ubc.ca/course-section/cpsc-330-201-2021w)
 
-## Important information regarding the upcoming CPSC 330 Midterm
-As per calendar, the midterm will be on Wednesday, February 15, from 7:00pm to 8:15pm (exam is 75 minutes long). No remote options allowed. 
+## Important information regarding the CPSC 330 Final Exam
+As per [UBC Schedule](https://students.ubc.ca/enrolment/exams/exam-schedule), the final exam will be on Thursday, April 20th, from 7:00pm to 10pm  (exam length TBD). No remote options allowed. 
  
-The in-person exam will be closed-book and it will be administered through Canvas. Students will attend to the exam location based on the lecture section they are officially registered in. 
+Students will attend to the exam location based on the lecture section and last name:
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/112001349/226437261-6fd1e8cf-9291-45f4-a792-f66fe0fc7ef0.png">
 
-**Please see locations below:**
-
-- CPSC 330 Section 201 students (taught by Giulia Toti) will write the exam in [SCRF 100](https://learningspaces.ubc.ca/classrooms/scrf-100)
-- CPSC 330 Section 202 students (taught by Mathias Lecuyer) will write the exam in [ESB 1012](https://learningspaces.ubc.ca/classrooms/esb-1012)
-- CPSC 330 Section 203 students (taught by Amir Abdi) will write the exam in [DMP 310](https://learningspaces.ubc.ca/classrooms/dmp-310)
-
-You are required to bring your own computer or tablet to complete the exam (no smartphones or other devices allowed). If you do not think you will have one available on the day of the exam, please let your CPSC 330 Course Coordinator, Michelle know no later than this Friday, February 10 by sending an email to cpsc330-admin@cs.ubc.ca. If you come to the exam without a computer, or if your computer malfunctions during the exam, you will be offered a paper version of the test.
  
-You do not need to bring anything else to the test: scrap paper will be provided and a basic calculator is accessible in Canvas.
+Students who require special accommodations must register with CFA and take the exam at their facilities. Remember that CFA requires you to do so at least 1 week prior to UBC's final exam period. If you fail to register with CFA and can not take the exam with them, we will not be able to provide alternative accommodations and you will have to take the exam with the rest of the class.
  
-You are also required to bring your UBC student card or another piece or photo ID for identification. If we are unable to verify your identity because you do not have a valid ID, your exam will be invalidated and you will be assigned a grade of 0.
- 
-Students who require special accommodations must register with CFA and take the exam at their facilities. Remember that CFA requires you to do so at least 1 week prior to the exam, so do this ASAP. If you fail to register with CFA and can not take the exam with them, we will not be able to provide alternative accommodations and you will have to take the exam with the rest of the class.
- 
-Lastly, we will connect with those who has submitted a MT conflict shortly after the request deadline.
+_More exam info to come_
 
 
 
