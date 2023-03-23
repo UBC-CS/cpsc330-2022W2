@@ -124,3 +124,144 @@ def discrete_scatter(x1, x2, y=None, markers=None, s=10, ax=None,
         ax.set_ylim(min(x2.min() - pad2, ylim[0]), max(x2.max() + pad2, ylim[1]))
 
     return lines
+
+def plot_2d_classification(classifier, X, fill=False, ax=None, eps=None,
+                           alpha=1, cm=cm3):
+    # multiclass
+    if eps is None:
+        eps = X.std() / 2.
+
+    if ax is None:
+        ax = plt.gca()
+
+    x_min, x_max = X[:, 0].min() - eps, X[:, 0].max() + eps
+    y_min, y_max = X[:, 1].min() - eps, X[:, 1].max() + eps
+    xx = np.linspace(x_min, x_max, 1000)
+    yy = np.linspace(y_min, y_max, 1000)
+
+    X1, X2 = np.meshgrid(xx, yy)
+    X_grid = np.c_[X1.ravel(), X2.ravel()]
+    decision_values = classifier.predict(X_grid)
+    ax.imshow(decision_values.reshape(X1.shape), extent=(x_min, x_max,
+                                                         y_min, y_max),
+              aspect='auto', origin='lower', alpha=alpha, cmap=cm)
+    ax.set_xlim(x_min, x_max)
+    ax.set_ylim(y_min, y_max)
+    ax.set_xticks(())
+    ax.set_yticks(())
+
+
+def plot_logistic_regression_graph():
+    import graphviz
+    lr_graph = graphviz.Digraph(node_attr={'shape': 'circle', 'fixedsize': 'True'},
+                                graph_attr={'rankdir': 'LR', 'splines': 'line'})
+    inputs = graphviz.Digraph(node_attr={'shape': 'circle'}, name="cluster_0")
+    output = graphviz.Digraph(node_attr={'shape': 'circle'}, name="cluster_2")
+
+    for i in range(4):
+        inputs.node("x[%d]" % i, labelloc="c")
+    inputs.body.append('label = "inputs"')
+    inputs.body.append('color = "white"')
+
+    lr_graph.subgraph(inputs)
+
+    output.body.append('label = "output"')
+    output.body.append('color = "white"')
+    output.node("y")
+
+    lr_graph.subgraph(output)
+
+    for i in range(4):
+        lr_graph.edge("x[%d]" % i, "y", label="w[%d]" % i)
+    return lr_graph
+
+
+
+def plot_single_hidden_layer_graph():
+    import graphviz
+    nn_graph = graphviz.Digraph(node_attr={'shape': 'circle', 'fixedsize': 'True'},
+                                graph_attr={'rankdir': 'LR', 'splines': 'line'})
+
+    inputs = graphviz.Digraph(node_attr={'shape': 'circle'}, name="cluster_0")
+    hidden = graphviz.Digraph(node_attr={'shape': 'circle'}, name="cluster_1")
+    output = graphviz.Digraph(node_attr={'shape': 'circle'}, name="cluster_2")
+
+    for i in range(4):
+        inputs.node("x[%d]" % i)
+
+    inputs.body.append('label = "inputs"')
+    inputs.body.append('color = "white"')
+
+    hidden.body.append('label = "hidden layer"')
+    hidden.body.append('color = "white"')
+
+    for i in range(3):
+        hidden.node("h%d" % i, label="h[%d]" % i)
+
+    output.node("y")
+    output.body.append('label = "output"')
+    output.body.append('color = "white"')
+
+    nn_graph.subgraph(inputs)
+    nn_graph.subgraph(hidden)
+    nn_graph.subgraph(output)
+
+    for i in range(4):
+        for j in range(3):
+            nn_graph.edge("x[%d]" % i, "h%d" % j)
+
+    for i in range(3):
+        nn_graph.edge("h%d" % i, "y")
+    return nn_graph
+
+def plot_two_hidden_layer_graph():
+    import graphviz
+    nn_graph = graphviz.Digraph(node_attr={'shape': 'circle', 'fixedsize': 'True'},
+                                graph_attr={'rankdir': 'LR', 'splines': 'line'})
+
+    inputs = graphviz.Digraph(node_attr={'shape': 'circle'}, name="cluster_0")
+    hidden = graphviz.Digraph(node_attr={'shape': 'circle'}, name="cluster_1")
+    hidden2 = graphviz.Digraph(node_attr={'shape': 'circle'}, name="cluster_2")
+
+    output = graphviz.Digraph(node_attr={'shape': 'circle'}, name="cluster_3")
+
+    for i in range(4):
+        inputs.node("x[%d]" % i)
+
+    inputs.body.append('label = "inputs"')
+    inputs.body.append('color = "white"')
+
+    for i in range(3):
+        hidden.node("h1[%d]" % i)
+
+    for i in range(3):
+        hidden2.node("h2[%d]" % i)
+
+    hidden.body.append('label = "hidden layer 1"')
+    hidden.body.append('color = "white"')
+
+    hidden2.body.append('label = "hidden layer 2"')
+    hidden2.body.append('color = "white"')
+
+    output.node("y")
+    output.body.append('label = "output"')
+    output.body.append('color = "white"')
+
+    nn_graph.subgraph(inputs)
+    nn_graph.subgraph(hidden)
+    nn_graph.subgraph(hidden2)
+
+    nn_graph.subgraph(output)
+
+    for i in range(4):
+        for j in range(3):
+            nn_graph.edge("x[%d]" % i, "h1[%d]" % j, label="")
+
+    for i in range(3):
+        for j in range(3):
+            nn_graph.edge("h1[%d]" % i, "h2[%d]" % j, label="")
+
+    for i in range(3):
+        nn_graph.edge("h2[%d]" % i, "y", label="")
+
+    return nn_graph
