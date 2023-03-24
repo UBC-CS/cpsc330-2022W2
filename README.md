@@ -36,7 +36,7 @@ Usually the homework assignments will be due on Mondays and will be released on 
 | hw5 | March 1, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9483)| 4% | 
 | hw6 | Mar 15, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9483)| 5% | 
 | hw7 | Mar 22, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9483)| 4% |  
-| hw8 | TBD, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9483)|  3% |
+| hw8 | April 12, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9483)|  3% |
 | **Final exam** | Apr 20, 7:00pm | TBD | TBD | 50% |
 
 ## CPSC 330 Final Exam 
