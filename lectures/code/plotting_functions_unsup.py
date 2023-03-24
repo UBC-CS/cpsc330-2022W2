@@ -1048,3 +1048,29 @@ def print_hierarchical_clusters(X_people, y_people, target_names, cluster_labels
             ax.set_title(target_names[label].split()[-1], fontdict={"fontsize": 9})
         for i in range(cluster_size, 15):
             axes[i].set_visible(False)    
+            
+#[Code credit](https://learning.oreilly.com/library/view/introduction-to-machine/9781449369880/ch02.html#linear-models)
+def plot_multiclass_lr_ovr(lr, X_train, y_train, n_classes, test_points=None, decision_boundary=False):    
+    mglearn.discrete_scatter(X_train[:, 0], X_train[:, 1], y_train)
+    line = np.linspace(-15, 15)
+    colors = ['b','g','r','c', 'm','y', 'bisque', 'olivedrab']
+    for coef, intercept, color in zip(lr.coef_, lr.intercept_, colors[:n_classes]):
+        plt.plot(line, -(line * coef[0] + intercept) / coef[1], c=color)
+    plt.ylim(-10, 15)
+    plt.xlim(-10, 8)
+    plt.xlabel("Feature 0")
+    plt.ylabel("Feature 1")
+    legend_labels = []
+    for cl in range(n_classes):
+        legend_labels.append("Class " + str(cl))
+    for cl in range(n_classes):
+        legend_labels.append("Line class " + str(cl))
+    plt.legend(
+        legend_labels,
+        loc=(1.01, 0.3),
+    );
+    if test_points:
+        for test_point in test_points: 
+            plt.plot(test_point[0], test_point[1], "k*", markersize=16)
+    if decision_boundary:
+        mglearn.plots.plot_2d_classification(lr, X_train, fill=True, alpha=0.7)
