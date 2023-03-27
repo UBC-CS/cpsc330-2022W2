@@ -36,14 +36,17 @@ Usually the homework assignments will be due on Mondays and will be released on 
 | hw5 | March 1, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9483)| 4% | 
 | hw6 | Mar 15, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9483)| 5% | 
 | hw7 | Mar 22, 11:59pm  |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9483)| 4% |  
-| hw8 | TBD, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9483)|  3% |
+| hw8 | April 12, 11:59pm |   [Github repo](https://github.com/UBC-CS/cpsc330-2022W2/tree/main/hw) | [Gradescope](https://www.gradescope.ca/courses/9483)|  3% |
 | **Final exam** | Apr 20, 7:00pm | TBD | TBD | 50% |
 
 ## CPSC 330 Final Exam 
 As per UBC Schedule, the final exam will be on Thursday, April 20th, from 7:00pm to 10pm (exam length TBD). No remote options allowed.    Students will attend to the exam location based on the lecture section and last name.
 ![image](https://user-images.githubusercontent.com/112001349/226438563-3e54969b-4d78-4ca6-8c50-56b08a479606.png)
 
-Students who require special accommodations must register with CFA and take the exam at their facilities. Remember that CFA requires you to do so at least 1 week prior to UBC's final exam period. If you fail to register with CFA and can not take the exam with them, we will not be able to provide alternative accommodations and you will have to take the exam with the rest of the class. More exam info to come.
+Students who require special accommodations must register with CFA and take the exam at their facilities. Remember that CFA requires you to do so at least 1 week prior to UBC's final exam period. If you fail to register with CFA and can not take the exam with them, we will not be able to provide alternative accommodations and you will have to take the exam with the rest of the class. 
+
+If you believe that you will be experiencing an exam hardship, exam clash or any religious observations, please fill out this survey by Friday, March 31 @ 11:59 p.m. PT to request to take the final exam at an alternate time (TBD): https://ubc.ca1.qualtrics.com/jfe/form/SV_5yY8sjQatMZ0XlQ .
+More exam info to come.
 
 ## Lecture schedule (tentative)
 

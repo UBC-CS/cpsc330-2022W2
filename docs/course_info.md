@@ -10,7 +10,9 @@ Students will attend to the exam location based on the lecture section and last 
 
  
 Students who require special accommodations must register with CFA and take the exam at their facilities. Remember that CFA requires you to do so at least 1 week prior to UBC's final exam period. If you fail to register with CFA and can not take the exam with them, we will not be able to provide alternative accommodations and you will have to take the exam with the rest of the class.
- 
+
+If you believe that you will be experiencing an exam hardship, exam clash or any religious observations, please fill out this survey by Friday, March 31 @ 11:59 p.m. PT to request to take the final exam at an alternate time (TBD): https://ubc.ca1.qualtrics.com/jfe/form/SV_5yY8sjQatMZ0XlQ .
+
 _More exam info to come_
 
 
