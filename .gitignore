@@ -13,3 +13,4 @@ lectures/data/housing-kaggle
 *.pyc
 *.tsv
 *.wav
+lectures/data/animal-faces/
