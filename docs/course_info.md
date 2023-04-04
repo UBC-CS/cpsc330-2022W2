@@ -105,7 +105,7 @@ The grading scheme for the course is as follows:
 
 **A score of at least 50% in the Final Exam is required to pass the course.**
 
-Assignments will contribute equally towards the overall Assignments grade. This may change only in case the last assignment ends up particularly short or long due to timing, in which case the weight will be changed accordingly. Furthermore, I will drop your lowest homework grade. 
+Assignments weights are listed on the main page of the repository, together with their deadlines. Furthermore, we will drop your lowest homework grade. 
 
 For the full policy on grades, see [this document](grades.md).
 
