@@ -1,0 +1,4 @@
+torch==2.0.0
+numpy==1.24.2
+tiktoken==0.3.3
+wandb==0.14.2
